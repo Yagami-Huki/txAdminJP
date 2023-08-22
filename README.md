@@ -2,6 +2,8 @@
 ※ これは公式のリポジトリに日本語訳が適用されるまでの一時的なリポジトリです。  
 ※ This is a temporary repository until the Japanese translation is applied to the official repository.
 
+txAdminの翻訳ドキュメントに従い、一部の機能を日本語化したものになります。
+
 # 導入方法
 1. txData ディレクトリ下にダウンロードした locale.json ファイルを配置してください。
 2. txAdminの管理画面の Setting -> Global -> Language を Custom (txData/locale.json) に変更してください。
