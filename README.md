@@ -7,6 +7,7 @@ txAdminの翻訳ドキュメントに従い、一部の機能を日本語化し�
 # 導入方法
 1. txData ディレクトリ下にダウンロードした locale.json ファイルを配置してください。
 2. txAdminの管理画面の Setting -> Global -> Language を Custom (txData/locale.json) に変更してください。
+3. Save Global Setting ボタンを押して適用
 
 # スクリーンショット
 ![txAdmin1](https://github.com/Yagami-Huki/txAdminJP/assets/86300861/b8782901-7a4f-4ef3-841b-71d0c0dbcf72)
