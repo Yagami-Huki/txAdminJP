@@ -59,8 +59,8 @@
         "restarting": "サーバーを再起動しています (%{reason})。",
         "restarting_discord": "**%{servername}**を再起動しています (%{reason})。",
         "stopping": "サーバーを停止しています (%{reason})。",
-        "stopping_discord": "**%{servername}**を再起動しています (%{reason})。",
-        "spawning_discord": "**%{servername}**を開始しています。"
+        "stopping_discord": "**%{servername}**を停止しています (%{reason})。",
+        "spawning_discord": "**%{servername}**を起動しています。"
     },
     "nui_warning": {
         "title": "警告",
